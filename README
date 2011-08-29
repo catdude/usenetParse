@@ -1,0 +1,4 @@
+This project is designed to fetch Usenet messages from an NNTP server,
+parse the messages into a set of headers and a message body, clean up
+the message body, and optionally store the result in a database.
+
